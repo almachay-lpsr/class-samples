@@ -16,3 +16,4 @@ for n in range(2,10001):
 
 # in the end everything closes the code finishes
 myFile.close()
+
