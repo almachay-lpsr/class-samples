@@ -1,0 +1,45 @@
+body{
+    background-color: aqua;
+    font-family: Cursive,sans-serif;
+}
+#container {
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header {
+    background-color:#B2EBF2;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+#List {
+    display: inline;
+    position: relative;
+    left: 400px;
+    bottom: 825px;
+    font-size: 14px;
+}
+#UList {
+    display: incline-block;
+    position: relative;
+    left: 400px;
+    bottom: 825px;
+    font-size: 14px;
+}
+#Info {
+    display: incline-block;
+    position: relative;
+    text-align: center;
+    left: 30px;
+    bottom: 810px;
+    
+}
+#footer {
+    clear: both;
+    padding: 10px;
+    background-color: #999999;
+    color: white;
+    text-align: right;
+}
