@@ -1,0 +1,84 @@
+
+#container {
+    background-color: Purple;
+}
+
+#header {
+    color: White;
+    text-align: center;
+}
+
+.navbar {
+    background-color: Grey;
+    color: white;
+    font-family: Arial;
+    padding: 10px;
+    word-spacing: 500px;
+}
+
+.navbar h2 {
+    display: inline;
+}
+a {
+    color: white;
+}
+#IMG {
+    text-align: center;
+}
+
+#Team {
+    border-style: solid;
+}
+
+#S {
+    font-family: Cursive;
+    color: Purple;
+}
+ 
+#B{
+    font-family: Cursive;
+    color: Blue;
+}
+
+#P{
+    font-family: Cursive;
+}
+
+#G{
+    font-family: Cursive;
+    color: Blue;
+}
+
+#Introduction {
+    font-family: Cursive;
+    position: absolute;
+    bottom: 174px;
+    right: 555px;
+}
+
+#News {
+    font-family: Cursive;
+    position: absolute;
+    bottom: 100px;
+    left: 625px;
+}
+
+#img {
+    text-align: center;
+}
+#p {
+    text-align: center;
+    size: 10px;
+}
+#Footer {
+    background-color: black;
+    color: white;
+    text-align: left;
+    display: block;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    text-align: right;
+}
